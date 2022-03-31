@@ -40,6 +40,7 @@ body {
   background-color: white;
 
   border-radius: 11px;
+  box-shadow: 0 2rem 3rem rgba(0, 0, 0, 0.244);
 }
 
 /* PATTERN IMAGE */
